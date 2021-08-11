@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:icon="@drawable/home_2"
+        android:id="@+id/home1"
+        android:title="HOME" />
+    <item
+
+        android:icon="@drawable/chat_24"
+        android:id="@+id/chat1"
+        android:title="CHAT" />
+    <item
+        android:icon="@drawable/ic_baseline_favorite_24"
+        android:id="@+id/favoirte1"
+        android:title="FAVOURITE" />
+    <item
+        android:icon="@drawable/person_24"
+        android:id="@+id/profile1"
+        android:title="PROFILE" />
+
+</menu>
